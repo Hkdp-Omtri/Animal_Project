@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Omtri_SearchApp
 //
-//  Created by Omtri,Homakesavadurgaprasad on 3/2/22.
+//  Created by Student on 3/3/22.
 //
 
 import UIKit
